@@ -1,1 +1,5 @@
-
+- Clone the repo
+- put the keys.js file in the root
+- npm install
+- npm start
+- go to localhost:8080
